@@ -37711,7 +37711,7 @@ var render = function () {
             }),
             _vm._v(" "),
             _c("h1", { staticClass: "text-3xl font-bold pt-8 lg:pt-0" }, [
-              _vm._v("Your Name"),
+              _vm._v("Priyo Pujonggo"),
             ]),
             _vm._v(" "),
             _c("div", {
